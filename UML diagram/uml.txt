@@ -1,0 +1,118 @@
+@startuml
+
+abstract class User {
+    - username: String
+    - password: String
+    - name: String
+    - email: String
+    - phoneNumber: String
+    - dateOfBirth: LocalDate
+}
+
+class Listener {
+    - credit: double
+    - playlists: ArrayList<Playlist>
+    - audiosPlayed: Map<Audio, Integer>
+    - expirementDate: LocalDate
+    - favoriteGenres: ArrayList<Genre>
+}
+
+class Artist {
+    - income: double
+    - followers: ArrayList<User>
+    - biography: String
+}
+
+class NormalListener {
+    - remainingDays: int
+}
+
+class PremiumListener {
+    - remainingDays: int
+}
+
+class Podcaster {
+    - podcasts: ArrayList<Podcast>
+}
+
+class Singer {
+    - albums: ArrayList<Album>
+}
+
+class Database {
+    - instance: Database
+    - logedInUser: User
+    - users: ArrayList<User>
+    - reports: ArrayList<Report>
+    - audios: ArrayList<Audio>
+}
+
+class Playlist {
+    - id: int
+    - playlistName: String
+    - ownerUserName: String
+    - audioFiles: ArrayList<Audio>
+}
+
+class Report {
+    - reportingUser: Listener
+    - reportedArtist: Artist
+    - description: String
+}
+
+class Album {
+    - id: int
+    - name: String
+    - artistName: String
+    - songs: ArrayList<Song>
+}
+
+class Audio {
+    - id: int
+    - fileName: String
+    - artistName: String
+    - playCount: int
+    - likesCount: int
+    - publishDate: LocalDate
+    - genre: Genre
+    - audioLink: String
+    - cover: String
+}
+
+class Podcast {
+    - caption: String
+}
+
+class Song {
+    - lyrics: String
+}
+
+enum Genre {
+    ROCK, POP, JAZZ, HIPHOP, COUNTRY, TRUE_CRIME, SOCIETY, INTERVIEW, HISTORY
+}
+
+enum PremiumPlan {
+    ONE_MONTH(30, 5),
+    TWO_MONTHS(60, 9),
+    SIX_MONTHS(180, 14)
+}
+
+User <|-- Listener
+User <|-- Artist
+Listener <|-- NormalListener
+Listener <|-- PremiumListener
+Artist <|-- Podcaster
+Artist <|-- Singer
+Album --> Artist
+Database --> User
+Database --> Report
+Database --> Audio
+Database --> Playlist
+Playlist --> Audio
+Report --> Listener
+Report --> Artist
+Album --> Song
+Audio <|-- Podcast
+Audio <|-- Song
+
+@enduml

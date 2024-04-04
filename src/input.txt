@@ -1,0 +1,173 @@
+Signup -L -johnsmith -P@ssw0rd -John Smith -johnsmith@example.com -09121234567 -1990-01-01
+FavoriteGenres -Rock,Pop,Jazz,HipHop
+Signup -L -alicesmith -Password123! -Alice Smith -alicesmith@email.com -09987987654 -1985-05-15
+FavoriteGenres -Country,TrueCrime,Society,InterView
+Signup -L -adminuser -Admin@123 -Admin User -adminuser@admin.com -09095553333 -1975-12-31
+FavoriteGenres -Pop,HipHop,Country,TrueCrime
+Signup -L -michaelbrown -NewPass123* -Michael Brown -michaelbrown@example.com -09994445535 -2000-10-20
+FavoriteGenres -Rock,Jazz,History,Society
+Signup -L -sarahjones -Jones@1234 -Sarah Jones -sarahjones@example.com -09056667777 -1995-06-12
+FavoriteGenres -HipHop,TrueCrime,InterView,History
+Signup -L -emilywilson -TestPas2s! -Emily Wilson -emilywilson@test.com -09058889999 -1988-03-25
+FavoriteGenres -Country,Pop,Jazz,Society
+Signup -L -davidmiller -Password1!@# -David Miller -davidmiller@example.com -09011122722 -1992-11-30
+FavoriteGenres -Rock,HipHop,InterView,History
+Signup -L -laurasmith -Pass456! -Laura Smith -laurasmith@example.com -09033334844 -1980-09-18
+FavoriteGenres -Pop,Country,TrueCrime,Society
+Signup -L -markthompson -User*789Pass -Mark Thompson -markthompson@example.com -09077778988 -1978-07-05
+FavoriteGenres -Jazz,HipHop,History,Society
+Signup -L -jenniferdavis -Strong*Password123 -Jennifer Davis -jenniferdavis@example.com -09099902000 -1998-04-15
+FavoriteGenres -Rock,Pop,TrueCrime,InterView
+Signup -L -michaelwilson -SecurePass44! -Michael Wilson -michaelwilson@example.com -09022224333 -1987-02-28
+FavoriteGenres -Country,Jazz,HipHop,History
+Signup -L -samanthajohnson -NewAdmin@123 -Samantha Johnson -samanthajohnson@example.com -09077758888 -1970-08-10
+FavoriteGenres -Pop,Jazz,Society,InterView
+Signup -L -alexandermartin -SuperPass123* -Alexander Martin -alexandermartin@example.com -09994445555 -1993-07-22
+FavoriteGenres -Rock,Country,HipHop,History
+Signup -L -jessicabrown -Brown@1234 -Jessica Brown -jessicabrown@example.com -09066667777 -1983-09-05
+FavoriteGenres -Jazz,TrueCrime,Society,InterView
+Signup -L -danielwilson -Xyzl123! -Daniel Wilson -danielwilson@example.com -09088889999 -1976-11-15
+FavoriteGenres -Pop,HipHop,History,TrueCrime
+Signup -L -laurajackson -Pass!@#123 -Laura Jackson -laurajackson@example.com -09011122222 -1982-01-08
+FavoriteGenres -Rock,Jazz,Country,Society
+Signup -L -matthewharris -Passz222! -Matthew Harris -matthewharris@example.com -09033334444 -1991-04-20
+FavoriteGenres -HipHop,InterView,History,TrueCrime
+Signup -L -sophiathomas -Pass3333! -Sophia Thomas -sophiathomas@example.com -09077778888 -1974-10-12
+FavoriteGenres -Country,Pop,Society,TrueCrime
+Signup -L -nathanroberts -Pass4444@ -Nathan Roberts -nathanroberts@example.com -09099900000 -1989-06-30
+FavoriteGenres -Rock,HipHop,Jazz,InterView
+Signup -L -oliviaadams -Pass5555! -Olivia Adams -oliviaadams@example.com -09022223333 -1979-03-25
+FavoriteGenres -Pop,History,TrueCrime,Society
+Signup -L -hossein0402 -123fghFGH@# -hossein -hossein0402@gmail.com -09928092622 -2004-03-23
+FavoriteGenres -HipHop,Society,InterView,History
+Signup -L -Mahdi0402 -805fghF@# -Mahdi -Mahdi.x2@gmail.com -09928094622 -2001-03-23
+FavoriteGenres -HipHop,Society,InterView,Jazz
+Signup -S -Hossein66 -1234fGGG@ -Hossein Ahmadi -hsn56@gmail.com -09910039121 -2004-09-12 -hiii
+Signup -S -Ali66 -12345fGGG@ -Ali Ahmadi -hsnn56@gmail.com -09911039121 -2004-10-12 -here
+Signup -S -Reza66 -1224fGGG@ -Reza Ahmadi -hsn56@exmail.com -09910039122 -2004-09-13 -hello
+Signup -S -johnDoe123 -P@ssword1 -John Doe -john.doe@example.com -09123456789 -1990-01-01 -Hello, I'm John!
+Signup -P -alice_smith -Alic3!Smith -Alice Smith -alice.smith@example.com -09234567890 -1985-05-15 -Nice to meet you!
+Signup -S -robert_jones -R0bertJ0n3s -Robert Jones -robert.jones@example.com -09345678901 -1988-09-30 -I love coding!
+Signup -P -sarahBrown -S@r@h1234 -Sarah Brown -sarah.brown@example.com -09456789012 -1992-03-20 -Coffee lover ☕
+Signup -S -david_miller -Dav1dM!ll3r -David Miller -david.miller@example.com -09567890123 -1987-11-10 -Tech enthusiast
+Signup -P -laura_wilson -L@uraW1ls0n -Laura Wilson -laura.wilson@example.com -09678901234 -1995-07-25 -Music is life 🎵
+Signup -S -michael_clark -M1ch@3lCl@rk -Michael Clark -michael.clark@example.com -09789012345 -1989-12-05 -Sports fan
+Signup -P -emily_thomas -3milyT!@456 -Emily Thomas -emily.thomas@example.com -09890123456 -1993-02-15 -Bookworm 📚
+Signup -S -james_white -J@mesW1t3 -James White -james.white@example.com -09901234567 -1991-06-30 -Adventure awaits!
+Signup -P -olivia_baker -Ol1v!@B@k3r -Olivia Baker -olivia.baker@example.com -09112345678 -1994-10-20 -Nature lover 🌿
+Signup -S -william_king -W1ll!@mK!ng -William King -william.king@example.com -09223456789 -1990-04-15 -Dream big!
+Signup -P -emma_scott -3mm@Sc0tt -Emma Scott -emma.scott@example.com -09334567890 -1996-08-25 -Art enthusiast 🎨
+Signup -S -charles_wright -Ch@rl3sWr!ght -Charles Wright -charles.wright@example.com -09445678901 -1988-01-10 -Movie buff 🎥
+Signup -P -ava_garcia -Av@G5@rc!@ -Ava Garcia -ava.garcia@example.com -09556789012 -1992-05-30 -Animal lover 🐾
+Signup -S -logan_hall -L0g@nH@ll -Logan Hall -logan.hall@example.com -09667890123 -1987-09-20 -Gamer for life 🎮
+Signup -P -mia_lee -M!@Lsss33 -Mia Lee -mia.lee@example.com -09778901234 -1995-03-25 -Foodie at heart 🍔
+Signup -S -jacob_adams -J@c0bAd@ms -Jacob Adams -jacob.adams@example.com -09889012345 -1989-07-05 -Fitness freak 💪
+Signup -P -harper_rivera -H@rp3rR!v3r@ -Harper Rivera -harper.rivera@example.com -09990123456 -1993-11-15 -Dreamer & doer
+Signup -S -oliver_mitchell -0l!v3rM!tch3ll -Oliver Mitchell -oliver.mitchell@example.com -09101234567 -1991-01-30 -Wanderlust 🌍
+Signup -P -sophia_cook -S0ph!@C00k -Sophia Cook -sophia.cook@example.com -09212345678 -1994-06-20 -Yoga enthusiast 🧘
+Login -Hossein66 -1234fGGG@
+NewAlbum -love
+Publish -M -Song1 -Rock -Love is in the air -https://rockmusic.com/song1 -cover1 -Hossein Ahmadilove1
+Publish -M -Song2 -Pop -Dance with me -https://popmusic.com/song2 -cover2 -Hossein Ahmadilove1
+Publish -M -Song3 -Jazz -Smooth melodies -https://jazzmusic.com/song3 -cover3 -Hossein Ahmadilove1
+Publish -M -Song4 -HipHop -Rise to the top -https://hiphopmusic.com/song4 -cover4 -Hossein Ahmadilove1
+Publish -M -Song5 -Country -Backroads journey -https://countrymusic.com/song5 -cover5 -Hossein Ahmadilove1
+Logout
+Login -Ali66 -12345fGGG@
+NewAlbum -dislove
+Publish -M -Song6 -TrueCrime -Unsolved mysteries -https://truecrimemusic.com/song6 -cover6 -Ali Ahmadidisloce2
+Publish -M -Song7 -Society -Voices of change -https://societymusic.com/song7 -cover7 -Ali Ahmadidisloce2
+Publish -M -Song8 -InterView -Behind the scenes -https://interviewmusic.com/song8 -cover8 -Ali Ahmadidisloce2
+Publish -M -Song9 -History -Echoes of the past -https://historymusic.com/song9 -cover9 -Ali Ahmadidisloce2
+Publish -M -Song10 -Rock -Wild and free -https://rockmusic.com/song10 -cover10 -Ali Ahmadidisloce2
+Logout
+Login -Reza66 -1224fGGG@
+NewAlbum -fight
+Publish -M -Song11 -Pop -Summer vibes -https://popmusic.com/song11 -cover11 -Reza Ahmadifight3
+Publish -M -Song12 -Jazz -Midnight serenade -https://jazzmusic.com/song12 -cover12 -Reza Ahmadifight3
+Publish -M -Song13 -HipHop -City streets -https://hiphopmusic.com/song13 -cover13 -Reza Ahmadifight3
+Publish -M -Song14 -Country -Heartland tales -https://countrymusic.com/song14 -cover14 -Reza Ahmadifight3
+Publish -M -Song15 -TrueCrime -Dark secrets -https://truecrimemusic.com/song15 -cover15 -Reza Ahmadifight3
+Logout
+Login -emma_scott -3mm@Sc0tt
+Publish -P -Song16 -Society -Voices of unity -https://societymusic.com/song16 -cover16
+Publish -P -Song17 -InterView -Celebrity insights -https://interviewmusic.com/song17 -cover17
+Publish -P -Song18 -History -Legends remembered -https://historymusic.com/song18 -cover18
+Publish -P -Song19 -Rock -Guitar solos -https://rockmusic.com/song19 -cover19
+Publish -P -Song20 -Pop -Catchy chorus -https://popmusic.com/song20 -cover20
+Logout
+Login -olivia_baker -Ol1v!@B@k3r
+Publish -P -Song21 -Jazz -Saxophone serenity -https://jazzmusic.com/song21 -cover21
+Publish -P -Song22 -HipHop -Urban beats -https://hiphopmusic.com/song22 -cover22
+Publish -P -Song23 -Country -Southern charm -https://countrymusic.com/song23 -cover23
+Publish -P -Song24 -TrueCrime -Cold cases -https://truecrimemusic.com/song24 -cover24
+Publish -P -Song25 -Society -Community voices -https://societymusic.com/song25 -cover25
+Logout
+Login -hossein0402 -123fghFGH@#
+NewPlaylist -fighter
+Add -fighter -1
+Add -fighter -2
+Add -fighter -3
+Add -fighter -4
+Add -fighter -4
+Add -fighter -5
+Add -fighter -6
+Add -fighter -7
+Add -fighter -8
+Add -fighter -9
+Add -fighter -9
+Play -7
+Play -7
+Play -7
+Play -7
+Play -7
+Play -3
+Play -3
+Play -1
+Like -4
+Like -4
+Like -6
+Follow -harper_rivera
+Follow -Hossein66
+Follow -sophia_cook
+Report -Hossein66 -pooor
+IncreaseCredit -15
+AccountInfo
+Followings
+SelectPlaylist -fighter
+Search -Song23
+Lyric -16
+Sort -P
+Sort -L
+Filter -A -Hossein Ahmadi
+Filter -G -HipHop
+Filter -D -2024-04-02
+Search -Hossein Ahmadi
+ShowPlaylists
+GetSuggestions
+SelectPlaylist -fighter
+Artist -Hossein66
+Logout
+Login -admin -admin
+help
+AccountInfo
+Artists
+Artist -Hossein66
+Audios
+Audio -6
+Reports
+Statistics
+Logout
+help
+Login -Hossein66 -1234fGGG@
+help
+Followers
+ViewStatistics
+CalculateEarnings
+AccountInfo
+Logout
+Login -hossein0402 -123fghFGH@#
+GetPremium -30
+AccountInfo
+ShowPlaylists
+

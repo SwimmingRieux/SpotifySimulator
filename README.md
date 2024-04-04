@@ -1,3 +1,5 @@
-[![Review Assignment Due LocalDate](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/wD1ppGde)
-# firstproject-musicplayer-phase1
-This project is a music player simulator like Spotify that has the ability to play songs, create playlists and publish and manage songs by artists..
+A simple Spotify simulator. This project implements a Model-View-Controller (MVC) pattern, accompanied by a user-based collaborative filtering recommendation system, to create an interactive music player experience.
+
+Terminal-based UI: Currently operates with a terminal-based user interface, with plans for future UI enhancements.
+For further insights and documentation, please refer to [Phase 1 Report](https://github.com/SwimmingRieux/firstproject-musicplayer-phase1-SwimmingRieux/blob/Phase1/AP_FirstProject_Phase1.pdf)
+
